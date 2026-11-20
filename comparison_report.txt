@@ -1,0 +1,6 @@
+AUTOMATED COMPARISON REPORT
+===========================
+Total tests: 7
+Passed tests: 7
+Failed tests: 0
+Success rate: 100.00%
